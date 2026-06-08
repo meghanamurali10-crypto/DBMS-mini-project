@@ -1,0 +1,41 @@
+body { background: #f5f7fb; }
+.brand-logo { border-radius: 8px; background: #fff; padding: 2px; }
+.metric-card { border: 0; border-radius: 8px; box-shadow: 0 8px 24px rgba(30, 41, 59, .08); }
+.table thead th { white-space: nowrap; }
+.auth-shell { min-height: calc(100vh - 56px); display: grid; place-items: center; }
+.auth-card { width: min(440px, 92vw); border: 0; border-radius: 8px; box-shadow: 0 18px 40px rgba(15, 23, 42, .16); }
+.qty-input { max-width: 120px; }
+.request-search { min-width: min(520px, 100%); }
+.locked { opacity: .65; }
+.usage-track { display: grid; gap: 4px; }
+.usage-bar { height: 10px; border-radius: 2px; }
+.usage-bar.requested { background: #2563eb; }
+.usage-bar.issued { background: #15803d; }
+.year-row { display: grid; grid-template-columns: 56px 1fr 86px; gap: 10px; align-items: center; margin-bottom: 14px; }
+.year-label, .year-value { font-size: .85rem; color: #475569; }
+.year-bars { display: grid; gap: 4px; }
+.request-detail-row td { background: transparent; }
+.request-detail-wrap { padding: 1rem 1rem 1.25rem; background: #f8fafc; border-top: 1px solid #e2e8f0; }
+.request-detail-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: .75rem; }
+.request-items-table { --bs-table-bg: #fff; }
+.request-items-table thead th { background: #e2e8f0; color: #0f172a; font-size: .82rem; vertical-align: middle; }
+.request-items-table td { vertical-align: top; }
+.request-items-table tbody td { border-color: #e2e8f0; }
+.request-justification { min-width: 220px; white-space: normal; line-height: 1.35; }
+.modal-dark { background: #0f172a; color: #f8fafc; border: 1px solid #334155; }
+.modal-dark .form-control::placeholder { color: #94a3b8; }
+.modal-dark .btn-close { filter: invert(1) grayscale(100%) brightness(200%); }
+.btn-delete-soft {
+  --bs-btn-color: #b42318;
+  --bs-btn-bg: #fff5f5;
+  --bs-btn-border-color: #fecaca;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #dc2626;
+  --bs-btn-hover-border-color: #dc2626;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #b91c1c;
+  --bs-btn-active-border-color: #b91c1c;
+  font-weight: 600;
+}
+.gsssr-decision-btn.is-preferred { box-shadow: 0 0 0 3px rgba(15, 23, 42, .18); transform: translateY(-1px); }
+@media print { .navbar, .btn, .alert { display: none !important; } body { background: #fff; } }

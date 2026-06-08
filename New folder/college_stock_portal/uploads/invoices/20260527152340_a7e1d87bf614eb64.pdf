@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >>  >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4744 >>
+stream
+0.96 0.96 0.96 rg 0.00 788.00 595.00 54.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 rg BT /F2 10.00 Tf 28.00 822.00 Td (GSSS Institute of Engineering and Technology for Women - Stock Management System) Tj ET
+0 0 0 rg BT /F2 16.00 Tf 28.00 800.00 Td (Department Indent / Stock Request) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 770.00 Td (Indent No: REQ-20260526-80A3C2) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 297.50 770.00 Td (Date: 26-05-2026) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 754.00 Td (Department: Central Administrative Cell) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 297.50 754.00 Td (Requested By: IETW Admin) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 738.00 Td (Status: PARTIALLY_ISSUED) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 716.00 Td (To,) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 702.00 Td (The GSSSR Admin,) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 688.00 Td (GSSSIETW - Stock, Mysuru.) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 674.00 Td () Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 660.00 Td (Through,) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 646.00 Td (The HOD,) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 632.00 Td (Central Administrative Cell.) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 618.00 Td () Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 604.00 Td (Respected Sir / Madam,) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 590.00 Td (Sub: Consolidated request from multiple departments – 2026-05-26 16:39:35) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 576.00 Td (The following stock / stationery items are required for the department. Kindly review the request so that the IETW and GSSSR) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 562.00 Td (stock workflow can process the approved items.) Tj ET
+0.90 0.90 0.90 rg 28.00 520.00 25.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 28.00 520.00 25.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 32.00 530.00 Td (Sl No) Tj ET
+0.90 0.90 0.90 rg 53.00 520.00 50.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 53.00 520.00 50.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 57.00 530.00 Td (Item Code) Tj ET
+0.90 0.90 0.90 rg 103.00 520.00 140.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 103.00 520.00 140.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 107.00 530.00 Td (Particulars) Tj ET
+0.90 0.90 0.90 rg 243.00 520.00 60.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 243.00 520.00 60.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 247.00 530.00 Td (Available Qty) Tj ET
+0.90 0.90 0.90 rg 303.00 520.00 60.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 303.00 520.00 60.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 307.00 530.00 Td (Required Qty) Tj ET
+0.90 0.90 0.90 rg 363.00 520.00 120.00 24.00 re f 0 0 0 RG 0 0 0 rg
+0 0 0 RG 0.35 w 363.00 520.00 120.00 24.00 re S
+0 0 0 rg BT /F2 8.00 Tf 367.00 530.00 Td (Justification) Tj ET
+0 0 0 RG 0.35 w 28.00 490.00 25.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 32.00 506.00 Td (1) Tj ET
+0 0 0 RG 0.35 w 53.00 490.00 50.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 57.00 506.00 Td (STAT-100) Tj ET
+0 0 0 RG 0.35 w 103.00 490.00 140.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 107.00 506.00 Td (Permanent marker) Tj ET
+0 0 0 RG 0.35 w 243.00 490.00 60.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 247.00 506.00 Td (41.00 Nos) Tj ET
+0 0 0 RG 0.35 w 303.00 490.00 60.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 307.00 506.00 Td (13.00 Nos) Tj ET
+0 0 0 RG 0.35 w 363.00 490.00 120.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 367.00 506.00 Td (Aggregated from multiple) Tj ET
+0 0 0 rg BT /F1 7.50 Tf 367.00 496.00 Td (department requests) Tj ET
+0 0 0 RG 0.35 w 28.00 460.00 25.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 32.00 476.00 Td (2) Tj ET
+0 0 0 RG 0.35 w 53.00 460.00 50.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 57.00 476.00 Td (HOUSE-007) Tj ET
+0 0 0 RG 0.35 w 103.00 460.00 140.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 107.00 476.00 Td (All out) Tj ET
+0 0 0 RG 0.35 w 243.00 460.00 60.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 247.00 476.00 Td (0.00 01 No.) Tj ET
+0 0 0 RG 0.35 w 303.00 460.00 60.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 307.00 476.00 Td (41.00 01 No.) Tj ET
+0 0 0 RG 0.35 w 363.00 460.00 120.00 30.00 re S
+0 0 0 rg BT /F1 7.50 Tf 367.00 476.00 Td (Aggregated from multiple) Tj ET
+0 0 0 rg BT /F1 7.50 Tf 367.00 466.00 Td (department requests) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 460.00 Td () Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 446.00 Td (GSSSR Remarks: all the best
+
+The request has been partially approved. The quantities approved are indicated below. Remaining items will be considered for the next semester.) Tj ET
+0 0 0 rg BT /F1 9.00 Tf 28.00 432.00 Td (Thanking you,) Tj ET
+0 0 0 RG 0.5 w 28.00 396.00 m 179.67 396.00 l S
+0 0 0 rg BT /F1 9.00 Tf 28.00 382.00 Td (HOD Signature) Tj ET
+0 0 0 RG 0.5 w 207.67 396.00 m 359.33 396.00 l S
+0 0 0 rg BT /F1 9.00 Tf 207.67 382.00 Td (GSSSR Signature) Tj ET
+0 0 0 RG 0.5 w 387.33 396.00 m 539.00 396.00 l S
+0 0 0 rg BT /F1 9.00 Tf 387.33 382.00 Td (IETW Signature) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000397 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+5193
+%%EOF
